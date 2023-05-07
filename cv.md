@@ -1,20 +1,20 @@
-#Anna Iakusheva#
+#Anna Iakusheva
 *******
-##Contact information##
-Location:
-Phone:
-E-mail:
-Telegram:
-GitHub:
+##Contact information
+**Location:** Minsk, Belarus
+**Phone:** +375 44 553 23 63
+**E-mail:** anyuta.bylina@yandex.ru
+**Telegram:** @anyuta_ia
+**GitHub:** AnnaBylina1
 *******
-##About me:##
+##About me:
 *******
-##Skills##
+##Skills:
 ******
-##Code Example##
+##Code Example
 ******
-##Experience##
+##Experience
 *******
-##Education##
+##Education
 ******
-##Languages##
+##Languages
