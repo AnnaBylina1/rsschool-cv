@@ -1,6 +1,7 @@
 #Anna Iakusheva#
 *******
 ##Contact information##
+Location:
 Phone:
 E-mail:
 Telegram:
