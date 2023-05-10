@@ -12,7 +12,7 @@
 
 **GitHub:** AnnaBylina1
 
-******
+*******
 
 ## About Me
 
@@ -20,7 +20,7 @@ I am 28 years old. I learning my first cours in Rolling Scopes. I am looking for
 
 However, I know that I can provide a fresh take and an extraordinary approach to every project. I am always open to challenges and constructive feedback. I am open-minded and learn new things quickly. I want to become a team player and dedicate all my skills and talents to develop high-quality and unique products.
 
-******
+*******
 ## Skills
 
  * HTML5, CSS3
@@ -32,7 +32,7 @@ However, I know that I can provide a fresh take and an extraordinary approach to
  * Git, GitHub
 
  * VSCode
-******
+*******
 ## Code Example
 
 **KATA from CODEWARS:** 
@@ -49,7 +49,7 @@ return sum
 }
 ```
 
-******
+*******
 
 ## Experience
 
@@ -61,13 +61,13 @@ return sum
 
  * Belarusian State Pedagogical University Named After Maxim Tank
     * Psychologist
-******
+*******
 ### Courses
 * HTML ACADEMY - training courses
 * JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
-******
+*******
 
 ## Languages
 
