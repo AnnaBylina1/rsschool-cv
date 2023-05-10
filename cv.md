@@ -52,7 +52,7 @@ return sum
 
 ## Experience
 
-[Training roject NatGeoWild](https://github.com/AnnaBylina1/NatGeoWild)
+[Training project NatGeoWild](https://github.com/AnnaBylina1/NatGeoWild)
 
 *******
 
