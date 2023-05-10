@@ -32,7 +32,7 @@ However, I know that I can provide a fresh take and an extraordinary approach to
  * Git, GitHub
 
  * VSCode
-*******
+
 ## Code Example
 
 **KATA from CODEWARS:** 
@@ -61,7 +61,7 @@ return sum
 
  * Belarusian State Pedagogical University Named After Maxim Tank
     * Psychologist
-*******
+
 ### Courses
 * HTML ACADEMY - training courses
 * JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
